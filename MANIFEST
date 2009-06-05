@@ -1,0 +1,10 @@
+Changes
+lib/Mysql/Query/Parser.pm
+Makefile.PL
+MANIFEST			This list of files
+t/00_compile.t
+t/01_basic.t
+t/02_analyze_conditional_parts.t
+t/03_split_where_parts2.t
+t/04_where_parts_conditional_check.t
+
